@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "554647393627",
+    "project_id": "test2-a4ff8",
+    "storage_bucket": "test2-a4ff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554647393627:android:eca51faf8f164c216a767e",
+        "android_client_info": {
+          "package_name": "com.example.sugnu_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554647393627-aftgq924e9g9ilagrfifrspf58ahff5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sugnu_taxi",
+            "certificate_hash": "574523eefd29a3eba2af345db0b116ec5679dc85"
+          }
+        },
+        {
+          "client_id": "554647393627-vlook6us0s1ks508vhi0f171va2t6a0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZKEFi3DK7XlkTzs5FuVw0FMoD6XAVRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554647393627-l13t5lto997gob1mu4r9tr1co9up48f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554647393627-duv4snt0ccchhsmhft7pqnb0moddng79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sugnuTaxi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
