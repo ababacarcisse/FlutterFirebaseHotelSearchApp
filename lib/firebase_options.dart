@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBZZKEFi3DK7XlkTzs5FuVw0FMoD6XAVRA',
-    appId: '1:554647393627:android:eca51faf8f164c216a767e',
+    appId: '1:554647393627:android:82a8b5a57c2ca4146a767e',
     messagingSenderId: '554647393627',
     projectId: 'test2-a4ff8',
     storageBucket: 'test2-a4ff8.appspot.com',
@@ -63,21 +63,23 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDbh2KKiqwxjn60MSsutcH-u6W7sQqyNws',
-    appId: '1:554647393627:ios:8787c320309315446a767e',
+    appId: '1:554647393627:ios:6abb06ec274d10e66a767e',
     messagingSenderId: '554647393627',
     projectId: 'test2-a4ff8',
     storageBucket: 'test2-a4ff8.appspot.com',
-    iosClientId: '554647393627-duv4snt0ccchhsmhft7pqnb0moddng79.apps.googleusercontent.com',
-    iosBundleId: 'com.example.sugnuTaxi',
+    androidClientId: '554647393627-aftgq924e9g9ilagrfifrspf58ahff5j.apps.googleusercontent.com',
+    iosClientId: '554647393627-m3i9n15b4bjpv42bsgcoe4sdeaplh6va.apps.googleusercontent.com',
+    iosBundleId: 'com.example.travelApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyDbh2KKiqwxjn60MSsutcH-u6W7sQqyNws',
-    appId: '1:554647393627:ios:8787c320309315446a767e',
+    appId: '1:554647393627:ios:0ce6bd441165b1326a767e',
     messagingSenderId: '554647393627',
     projectId: 'test2-a4ff8',
     storageBucket: 'test2-a4ff8.appspot.com',
-    iosClientId: '554647393627-duv4snt0ccchhsmhft7pqnb0moddng79.apps.googleusercontent.com',
-    iosBundleId: 'com.example.sugnuTaxi',
+    androidClientId: '554647393627-aftgq924e9g9ilagrfifrspf58ahff5j.apps.googleusercontent.com',
+    iosClientId: '554647393627-gar1druc6daq8agjrnbrj45gaga0c82q.apps.googleusercontent.com',
+    iosBundleId: 'com.example.travelApp.RunnerTests',
   );
 }
